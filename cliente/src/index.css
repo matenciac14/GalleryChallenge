@@ -1,0 +1,33 @@
+.tarjeta{
+  min-height: 250px;
+  font-size: .7rem;
+}
+.informacionimagen{
+  opacity: 0;
+  transition-duration: 1s;
+}
+.informacionimagen:hover{
+  opacity: 1;
+  background: rgba(0,0,0, 0.8)
+}
+.lateral{
+  margin: 0px;
+  background: gray;
+  height: 92vh;
+}
+.contlat{
+  color: black;
+}
+.ctimg{
+  height: 60vh !important;
+}
+.card-img{
+  min-height: 250px;
+  background-position: center;
+  background-size: cover;
+}
+.dentrodecarta{
+  width: 150px;
+  min-height: 150px !important;
+}
+
